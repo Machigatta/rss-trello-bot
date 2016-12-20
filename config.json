@@ -1,0 +1,10 @@
+{
+    "user": {
+        "auth_key": "",
+        "auth_token": ""
+    },
+    "feed_list": [
+        { "rss_url": "http://lorem-rss.herokuapp.com/feed?unit=second&interval=4", "rss_krzl": "TEST", "trello_column": "" },
+        { "rss_url": "http://lorem-rss.herokuapp.com/feed?unit=second&interval=4", "rss_krzl": "TEST2", "trello_column": "" }
+    ]
+}
