@@ -31,8 +31,8 @@ To configurate the bot just use the config.js.
         "auth_token": "auth_key"
     },
     "feed_list": [
-        { "rss_url": "URL", "rss_krzl": "UNIQUE_SHORTNAME", "trello_column": "TRELLO_COLUM_ID"},
-        { "rss_url": "URL", "rss_krzl": "UNIQUE_SHORTNAME", "trello_column": "TRELLO_COLUM_ID"}
+        { "rss_url": "URL", "rss_krzl": "UNIQUE_SHORTNAME", "trello_column": "TRELLO_COLUMN_ID"},
+        { "rss_url": "URL", "rss_krzl": "UNIQUE_SHORTNAME", "trello_column": "TRELLO_COLUMN_ID"}
     ]
 }
 
